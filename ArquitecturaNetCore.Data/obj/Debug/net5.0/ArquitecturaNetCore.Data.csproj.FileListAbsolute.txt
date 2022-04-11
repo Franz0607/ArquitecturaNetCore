@@ -1,0 +1,12 @@
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\bin\Debug\net5.0\ArquitecturaNetCore.Data.deps.json
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\bin\Debug\net5.0\ArquitecturaNetCore.Data.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\bin\Debug\net5.0\ref\ArquitecturaNetCore.Data.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\bin\Debug\net5.0\ArquitecturaNetCore.Data.pdb
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\obj\Debug\net5.0\ArquitecturaNetCore.Data.csproj.AssemblyReference.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\obj\Debug\net5.0\ArquitecturaNetCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\obj\Debug\net5.0\ArquitecturaNetCore.Data.AssemblyInfoInputs.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\obj\Debug\net5.0\ArquitecturaNetCore.Data.AssemblyInfo.cs
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\obj\Debug\net5.0\ArquitecturaNetCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\obj\Debug\net5.0\ArquitecturaNetCore.Data.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\obj\Debug\net5.0\ref\ArquitecturaNetCore.Data.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Data\obj\Debug\net5.0\ArquitecturaNetCore.Data.pdb

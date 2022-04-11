@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ArquitecturaNetCore.Service/1.0.0": {
+        "dependencies": {
+          "ArquitecturaNetCore.Data": "1.0.0"
+        },
+        "runtime": {
+          "ArquitecturaNetCore.Service.dll": {}
+        }
+      },
+      "ArquitecturaNetCore.Data/1.0.0": {
+        "runtime": {
+          "ArquitecturaNetCore.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArquitecturaNetCore.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArquitecturaNetCore.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

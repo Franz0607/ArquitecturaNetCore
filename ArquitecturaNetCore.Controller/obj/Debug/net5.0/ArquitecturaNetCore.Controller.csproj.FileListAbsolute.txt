@@ -1,0 +1,17 @@
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\bin\Debug\net5.0\ArquitecturaNetCore.Controller.deps.json
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\bin\Debug\net5.0\ArquitecturaNetCore.Controller.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\bin\Debug\net5.0\ref\ArquitecturaNetCore.Controller.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\bin\Debug\net5.0\ArquitecturaNetCore.Controller.pdb
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\bin\Debug\net5.0\ArquitecturaNetCore.Data.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\bin\Debug\net5.0\ArquitecturaNetCore.Service.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\bin\Debug\net5.0\ArquitecturaNetCore.Service.pdb
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\bin\Debug\net5.0\ArquitecturaNetCore.Data.pdb
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ArquitecturaNetCore.Controller.csproj.AssemblyReference.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ArquitecturaNetCore.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ArquitecturaNetCore.Controller.AssemblyInfoInputs.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ArquitecturaNetCore.Controller.AssemblyInfo.cs
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ArquitecturaNetCore.Controller.csproj.CoreCompileInputs.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ArquitecturaNetCore.Controller.csproj.CopyComplete
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ArquitecturaNetCore.Controller.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ref\ArquitecturaNetCore.Controller.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Controller\obj\Debug\net5.0\ArquitecturaNetCore.Controller.pdb

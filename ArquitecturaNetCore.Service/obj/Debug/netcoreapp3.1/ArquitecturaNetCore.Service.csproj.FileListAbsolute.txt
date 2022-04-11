@@ -1,0 +1,13 @@
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\bin\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.deps.json
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\bin\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\bin\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.pdb
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\bin\Debug\netcoreapp3.1\ArquitecturaNetCore.Data.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\bin\Debug\netcoreapp3.1\ArquitecturaNetCore.Data.pdb
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\obj\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.csproj.AssemblyReference.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\obj\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\obj\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.AssemblyInfoInputs.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\obj\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.AssemblyInfo.cs
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\obj\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.csproj.CoreCompileInputs.cache
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\obj\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.csproj.CopyComplete
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\obj\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.dll
+C:\Users\FRANZ\Desktop\Proyectos\ArquitecturaNetCore\SlnWebAppArquitecturaNetCore\ArquitecturaNetCore.Service\obj\Debug\netcoreapp3.1\ArquitecturaNetCore.Service.pdb
