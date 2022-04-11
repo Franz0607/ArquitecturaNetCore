@@ -2,7 +2,8 @@
 
 namespace ArquitecturaNetCore.Service
 {
-    public class Class1
+    public class WeatherForecastService
     {
+
     }
 }
